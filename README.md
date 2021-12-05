@@ -1,3 +1,4 @@
+
 # github_command
 
 ```bash
@@ -11,9 +12,6 @@
 ```
 ```bash
   git commit -m "initial commit"
-```
-```bash
-  git status
 ```
 ### create new repository in github and copy this line from new repo
 ```bash
