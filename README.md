@@ -15,7 +15,7 @@
 ```bash
   git status
 ```
-### create new repository in github and copy this line
+### create new repository in github and copy this line from new repo
 ```bash
   git remote add origin .....
 ```
